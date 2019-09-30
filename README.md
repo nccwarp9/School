@@ -1,4 +1,4 @@
-![School](https://raw.githubusercontent.com/nccwarp9/School/master/MockUp_Images/4.png)
+<img src="/MockUp_Images/4.png" alt="School"/>
 # School,
 for most students is a stressful place. School
 consists mostly of tests, quizzes, and interaction with other
