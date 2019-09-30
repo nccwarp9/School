@@ -1,4 +1,5 @@
-School, for most students is a stressful place. School
+# School,
+for most students is a stressful place. School
 consists mostly of tests, quizzes, and interaction with other
 students and adults each with different goal in mind.
 SCHOOL. uses GSR or Galvanic Skin Response
