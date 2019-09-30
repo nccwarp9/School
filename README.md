@@ -10,6 +10,7 @@ been an effort or a different situation from being relaxed
 with a success rate of 90.97%. To supplement detection
 temperature, accelerometer and heart rate sensor can be
 added.
+
 SCHOOL. is a arm band type device that presents
 it self and functions like a smart watch to students. Device
 is primarily low power bluetooth device that is set up to
@@ -22,6 +23,7 @@ to teachers about state of attention for each student in
 class and enabling them to dedicate more time for specific
 student or if specific topic needs more time to be properly
 adopted by students.
+
 SCHOOL. enables students to enhance their
 cognitive capabilities such as focus, ability to ignore
 distractions, minimizing impuslivity. There is significant
@@ -29,5 +31,6 @@ percentage of students that are dealing with mental
 health issues like ADHD, autism, dyslexia and other. This
 technology can help them significantly diminish their
 symptoms
+
 This results in reducing the symptoms of ADHD,
 autism, dyslexia or stress.
